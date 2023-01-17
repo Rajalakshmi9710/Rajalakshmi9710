@@ -1,7 +1,7 @@
 - 👋 Hi, I’m R.Rajalakshmi
 - 👀 I’m interested in data analytics and data visualization.
 - 🌱 I’m currently learning python core.
-- 💞️ I’m looking to collaborate on data anlytics and visualization.
+- 💞️ I’m looking to collaborate on data analytics and visualization.
 - 📫 How to reach me rajalakshmirajendran10@gmail.com
 
 <!---
